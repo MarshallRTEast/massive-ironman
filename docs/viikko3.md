@@ -1,1 +1,4 @@
- 
+Kolmas viikko jäi suunniteltua laihemmaksi saavutuksiltaan kipeänä olemisen takia. Kuitenkin aikaansaatuja asioita olivat Arbitratorin ja Behaviorin kokeileminen ja tutkiskelu, vaikka niitä ei vielä laitettu käyttöön asti.  Alustavat versiot kuitenkin robotin tarvitsemista heittämis- ja idlebehavioreista tuli kuitenkin tehtyä. 
+Lisäksi tutkin hieman netistä ratastojen toimintaa, jotta moottorista saisi enemmän tehoa irti kouraan. Tämä tarkoittanee kouran uudelleensuunnittelua.
+
+Neljännellä viikolla tavoitteena on saada koko robotti luonnollisesti toimimaan, alkaen designin viimeistelystä ja toiminnallisuuden koodaamisesta. Vaikka koodi on vasta alkutekijöissä, sen rakenne on kuitenkin jo pitkälti selvä, joten sen toteuttaminen tulee olemaan manuaalista kirjoittamista suurimmilta osin. Tämän lisäksi tulee toteuttaa dokumentaatiota ja testaamista, mutta nämä tulevat varmaan tehtyä vasta demon jälkeen.
